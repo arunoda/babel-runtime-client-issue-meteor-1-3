@@ -1,0 +1,10 @@
+{
+  "name": "mantra-demo",
+  "version": "0.0.0",
+  "dependencies": {
+    "react": "0.14.x",
+    "react-komposer": "1.0.0"  
+  },
+  "private": true
+}
+
